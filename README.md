@@ -6,10 +6,10 @@ pkg upgrade
 
 pkg install python
 
-pkh install git 
+pkg install git 
 
 git clone https://github.com/siam6236299/Virous
 
 cd Virous
 
-python Virous.py
+python virous.py
